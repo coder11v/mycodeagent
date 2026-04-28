@@ -11,8 +11,8 @@ A blazing fast, simple coding agent that runs securely on your local machine usi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/coder11v/mycode1-agent.git
-   cd mycode1-agent
+   git clone https://github.com/coder11v/mycodeagent.git
+   cd mycodeagent
    ```
 
 2. Make the script executable:
